@@ -1,0 +1,16 @@
+body {
+font-family: Arial, sans-serif;
+}
+h1, h2 {
+color: #cc0d00;
+}
+img {
+max-width: 100%;
+}
+.container {
+width: 80%;
+margin: auto;
+padding: 20px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
